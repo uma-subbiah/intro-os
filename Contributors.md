@@ -134,6 +134,7 @@
 - [Huraira Muzammal](https://github.com/hurairamuzammil)
 - [Tobias Stanislav](https://github.com/AufkleberDraufkleber)
 - [Evan Sunde](https://github.com/EvanSunde)
+- [Uma S](https://github.com/uma-subbiah)
 - [Shryansh](https://github.com/Shryansh107)
 - [Hayden Gagnon](https://github.com/haydengagnon)
 - [Ashutosh Singh Yadav](https://github.com/ashu9335)
